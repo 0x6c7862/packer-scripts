@@ -7,6 +7,7 @@ Loosely based on [baseboxes](https://github.com/wholebits/baseboxes).
 
 ## Supported
 
+* [`ubuntu-14.04-i386`](https://atlas.hashicorp.com/lxb/boxes/ubuntu-14.04-i386)
 * [`ubuntu-14.04-amd64`](https://atlas.hashicorp.com/lxb/boxes/ubuntu-14.04-amd64)
 * [`ubuntu-16.04-i386`](https://atlas.hashicorp.com/lxb/boxes/ubuntu-16.04-i386)
 * [`ubuntu-16.04-amd64`](https://atlas.hashicorp.com/lxb/boxes/ubuntu-16.04-amd64)
