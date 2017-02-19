@@ -6,8 +6,8 @@
   "builders": [{
     "name": "ubuntu-16.04-i386",
     "vm_name": "ubuntu-16.04-i386",
-    "iso_url": "http://releases.ubuntu.com/16.04.1/ubuntu-16.04.1-server-i386.iso",
-    "iso_checksum": "62fc3e810c7631fbbd45d9c960ec749fc1eb66e5c56039423e3e94a5391a437a",
+    "iso_url": "http://releases.ubuntu.com/16.04.2/ubuntu-16.04.2-server-i386.iso",
+    "iso_checksum": "736f2c5700313494a2282092ca0f8b0048883ed48c5fdcf585d6e1852a3a110f",
     "iso_checksum_type": "sha256",
     "http_directory": "src/ubuntu-16.04",
     "boot_command": [
