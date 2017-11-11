@@ -22,8 +22,10 @@ apt-get dist-upgrade -y
 logger --no-act -s 'Install'
 apt-get install -y \
 	apt-transport-https \
+	software-properties-common \
 	build-essential \
 	curl \
+	jq \
 	unzip \
 	git \
 	mercurial \
